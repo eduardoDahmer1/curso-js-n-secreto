@@ -22,7 +22,14 @@ body {
 h1 {
     font-size: 5em;
 }
-
+.btn-jogar{
+    margin-top: 1em;
+padding: 1em;
+border-radius: 0.3em;
+background-color: rgba(255, 255, 255, 0.461);
+color: white;
+border: 1px solid rgba(255, 255, 255, 0.461);
+}
 h2{
 font-size: 3em;
 }
